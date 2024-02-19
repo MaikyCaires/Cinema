@@ -2,7 +2,7 @@ import style from "./Intro.module.css"
 
 function Intro({img}){
     return(
-        <section className={style.content} style={{backgroundImage: `url('/public/${img}.jpg')`}} >
+        <section className={style.content} style={{backgroundImage: `url('${img}.jpg')`}} >
              
             <div className={style.intro}>
             <div className={style.texto}>
