@@ -13,7 +13,7 @@ function Header() {
           <nav>
             <ul className={style.menu}>
               <li>
-                <a href="catalogo">Filmes</a>
+                <a href="#">Filmes</a>
               </li>
             </ul>
           </nav>
