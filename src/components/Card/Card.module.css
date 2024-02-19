@@ -18,7 +18,6 @@
 .catalogo img{
     width: 350px;
     height: 500px;
-    box-shadow: inset 150px;
     border-radius: 30px;
     
 }
@@ -50,4 +49,26 @@
     font-size: 15px;
     line-height: 1.2;
     color: #c4c4c4;
+ }
+
+ /**/
+
+ @media only screen and (max-width: 600px) {
+  .catalogo img{
+    width: 300px;
+    height: 450px;
+    border-radius: 30px;
+    
+}
+.texto h2{
+  font-family: roboto;
+  font-size: 24px;
+  font-weight: bold;
+}
+.texto p{
+  font-family: roboto;
+  font-size: 14px;
+  line-height: 1.2;
+  color: #c4c4c4;
+}
  }
