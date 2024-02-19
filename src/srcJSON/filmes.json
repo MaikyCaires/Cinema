@@ -6,37 +6,33 @@
         "descricao": "Bob Marley: One Love é um filme biográfico dirigido por Reinaldo Marcus Green (King Richard: Criando Campeãs) que conta a história de Robert Nesta Marley OM, mais conhecido como Bob Marley, grande ícone do reggae."
     },
     {
-        "img": "/public/madame.jpg",
+        "img": "madame.jpg",
         "nome": "Madame Teia",
         "ano": 2023,
         "descricao": "Madame Teia mostra a história de origem da personagem-título, interpretada por Dakota Johnson. Na trama, Cassandra Webb leva uma vida comum trabalhando como paramédica em Manhattan - até que, um dia, ela descobre que possui a habilidade de prever o futuro."
     },
     {
-        "img": "/public/wish.jpg",
+        "img": "wish.jpg",
         "nome": "Wish - O Poder dos Desejos",
         "ano": 2023,
         "descricao": "Em Wish: O Poder dos Desejos, conhecemos a história de Asha (Ariana DeBose) que em uma medida de desespero para salvar sua terra natal de inimigos, pede com todas as suas forças a ajuda de uma Estrela, que lhe atende."
     },
-
-
     {
-        "img": "/public/aqua.jpg",
+        "img": "aqua.jpg",
         "nome": "Aquaman 2: O Reino Perdido",
         "ano": 2023,
         "descricao": "Aquaman 2 é a sequência do filme Aquaman de 2018, que acompanha Arthur Curry (Jason Momoa), o filho do humano Tom Curry (Temuera Morrison) com a atlante Atlanna (Nicole Kidman)."
     },
     {
-        "img": "/public/napoleao.jpg",
+        "img": "napoleao.jpg",
         "nome": "Napoleão",
         "ano": 2023,
         "descricao": "Dirigido por Ridley Scott, o filme é um olhar original e pessoal sobre as origens de Napoleão Bonaparte (Joaquin Phoenix) e sua rápida e implacável ascensão a imperador, visto através do prisma de seu relacionamento visceral e muitas vezes volátil com sua esposa e verdadeiro amor."
     },
     {
-        "img": "/public/menosvc.jpg",
+        "img": "menosvc.jpg",
         "nome": "Todos Menos Você",
         "ano": 2023,
         "descricao": "Baseado no comédia de William Shakespeare, Much Ado About Nothing, Todos Menos Você, é um longa que acompanha Bea (Sydney Sweeney) e Ben (Glen Powell), dois jovens que combinam um encontro após se esbarrarem nos corredores da faculdade em que estudam."
     }
-    
-    
 ]
