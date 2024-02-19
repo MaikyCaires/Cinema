@@ -1,0 +1,59 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+.menuFlex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+   
+
+}
+.header{
+    background-color: #151515;
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    z-index: 1;
+
+    
+    
+}
+.content{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+
+
+.menu li a{
+    font-size: 18px;
+    display: block;
+    border: solid 2px white;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: none;
+    color: white;   
+}
+
+.menu li a:hover{
+    color: black;
+    background-color: white;
+    transition: all 0.3s;
+}
+
+/*  celular*/
+@media only screen and (max-width: 600px) {
+   .menuFlex nav{
+    display: none;
+   }
+   .menuFlex{
+    display: block;
+   }
+   .menuFlex h1{
+    margin-left: 20px;
+   }
+  }
