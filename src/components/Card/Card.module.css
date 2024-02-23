@@ -11,7 +11,7 @@
 .catalogo{
     position: relative;
     overflow: hidden;
-    flex: 1 1 calc(33.33% - 10px); /* 33.33% é para três itens em uma linha, e 10px é o espaçamento entre os itens */
+    flex: 1 1 calc(33.33% - 10px); 
     margin: 10px;
 }
 
@@ -28,13 +28,13 @@
   left: 0;
   width: 100%;
   padding: 5px;
-  background-color: #191919; /* Fundo escuro com opacidade */
+  background-color: #191919; 
   color: white;
   border-radius:  0px 0px 30px 30px;
   }
 
   .texto h2, .texto p {
-    margin-top: 0; /* Remove o espaço superior padrão do h2 e p */
+    margin-top: 0; 
     max-width: 40ch;
     margin-bottom: 10px;
   }

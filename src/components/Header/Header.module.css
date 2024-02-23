@@ -45,7 +45,7 @@
     transition: all 0.3s;
 }
 
-/*  celular*/
+
 @media only screen and (max-width: 600px) {
    .menuFlex nav{
     display: none;

@@ -2,7 +2,7 @@
   "name": "projeto02",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MaikyCaires.github.io/Cinema",
+  "homepage": "https://MaikyCaires.github.io/Jogos",
   "type": "module",
   "scripts": {
     "dev": "vite",
