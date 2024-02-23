@@ -1,38 +1,38 @@
 [
     {
-        "img": "bob.jpg",
-        "nome": "Bob Marley: One Love",
+        "img": "gta_v.jpg",
+        "nome": "GTA V",
+        "ano": 2013,
+        "descricao": "Grand Theft Auto V é um jogo de ação e aventura que se passa na fictícia cidade de Los Santos. A trama segue a vida de três criminosos, Michael, Franklin e Trevor, enquanto planejam e executam assaltos ousados. Explore um mundo aberto repleto de possibilidades e ação intensa."
+    },
+    {
+        "img": "metal_slug.jpg",
+        "nome": "Metal Slug",
+        "ano": 1996,
+        "descricao": "Metal Slug é um clássico jogo de tiro e ação conhecido por sua jogabilidade intensa e personagens carismáticos. Enfrente hordas de inimigos em ambientes variados, utilizando uma variedade de armas e veículos. Prepare-se para ação explosiva e desafios emocionantes."
+    },
+    {
+        "img": "dark_souls_3.jpg",
+        "nome": "Dark Souls 3",
+        "ano": 2016,
+        "descricao": "Dark Souls 3 é um jogo de RPG de ação que desafia os jogadores em um mundo sombrio e repleto de criaturas aterrorizantes. Explore cenários magníficos, enfrente chefes desafiadores e descubra uma história envolvente. Prepare-se para enfrentar a morte inúmeras vezes em busca de glória."
+    },
+    {
+        "img": "strongold.jpg",
+        "nome": "StrongGhold",
+        "ano": 2001,
+        "descricao": "StrongGold é um clássico jogo de estratégia em tempo real que desafia os jogadores a construir e gerenciar um castelo medieval. Defenda suas terras, recrute soldados e lidere campanhas épicas contra inimigos poderosos. Entre na era medieval e prove ser um senhor da guerra habilidoso."
+    },
+    {
+        "img": "elder_ring.jpg",
+        "nome": "Elder Ring",
         "ano": 2022,
-        "descricao": "Bob Marley: One Love é um filme biográfico dirigido por Reinaldo Marcus Green (King Richard: Criando Campeãs) que conta a história de Robert Nesta Marley OM, mais conhecido como Bob Marley, grande ícone do reggae."
+        "descricao": "Elder Ring é um RPG de ação de mundo aberto desenvolvido pela FromSoftware. Mergulhe em um universo fantástico, enfrente criaturas épicas e descubra uma narrativa rica e envolvente. Explore paisagens deslumbrantes e torne-se parte de uma jornada épica repleta de desafios e mistérios."
     },
     {
-        "img": "madame.jpg",
-        "nome": "Madame Teia",
-        "ano": 2023,
-        "descricao": "Madame Teia mostra a história de origem da personagem-título, interpretada por Dakota Johnson. Na trama, Cassandra Webb leva uma vida comum trabalhando como paramédica em Manhattan - até que, um dia, ela descobre que possui a habilidade de prever o futuro."
-    },
-    {
-        "img": "wish.jpg",
-        "nome": "Wish - O Poder dos Desejos",
-        "ano": 2023,
-        "descricao": "Em Wish: O Poder dos Desejos, conhecemos a história de Asha (Ariana DeBose) que em uma medida de desespero para salvar sua terra natal de inimigos, pede com todas as suas forças a ajuda de uma Estrela, que lhe atende."
-    },
-    {
-        "img": "aqua.jpg",
-        "nome": "Aquaman 2: O Reino Perdido",
-        "ano": 2023,
-        "descricao": "Aquaman 2 é a sequência do filme Aquaman de 2018, que acompanha Arthur Curry (Jason Momoa), o filho do humano Tom Curry (Temuera Morrison) com a atlante Atlanna (Nicole Kidman)."
-    },
-    {
-        "img": "napoleao.jpg",
-        "nome": "Napoleão",
-        "ano": 2023,
-        "descricao": "Dirigido por Ridley Scott, o filme é um olhar original e pessoal sobre as origens de Napoleão Bonaparte (Joaquin Phoenix) e sua rápida e implacável ascensão a imperador, visto através do prisma de seu relacionamento visceral e muitas vezes volátil com sua esposa e verdadeiro amor."
-    },
-    {
-        "img": "menosvc.jpg",
-        "nome": "Todos Menos Você",
-        "ano": 2023,
-        "descricao": "Baseado no comédia de William Shakespeare, Much Ado About Nothing, Todos Menos Você, é um longa que acompanha Bea (Sydney Sweeney) e Ben (Glen Powell), dois jovens que combinam um encontro após se esbarrarem nos corredores da faculdade em que estudam."
+        "img": "diablo_3.jpg",
+        "nome": "Diablo 3",
+        "ano": 2012,
+        "descricao": "Diablo 3 é um RPG de ação que coloca os jogadores contra as forças do mal em um mundo sombrio e demoníaco. Escolha entre diversas classes de personagens, lute contra hordas de inimigos, e embarque em uma busca para derrotar o Senhor do Terror."
     }
 ]

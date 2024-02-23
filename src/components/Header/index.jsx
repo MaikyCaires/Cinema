@@ -1,6 +1,6 @@
 import style from "./Header.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFilm } from "@fortawesome/free-solid-svg-icons";
+import { faGamepad } from "@fortawesome/free-solid-svg-icons";
 
 function Header() {
   return (
@@ -8,12 +8,12 @@ function Header() {
       <div className={style.content}>
         <div className={style.menuFlex}>
           <h1>
-            <FontAwesomeIcon color="white" icon={faFilm} />
+            <FontAwesomeIcon color="white" icon={faGamepad} />
           </h1>
           <nav>
             <ul className={style.menu}>
               <li>
-                <a href="#">Filmes</a>
+                <a href="#jogos">Jogos</a>
               </li>
             </ul>
           </nav>
@@ -24,3 +24,4 @@ function Header() {
 }
 
 export default Header;
+

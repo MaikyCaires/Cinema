@@ -17,3 +17,27 @@ body{
     flex-wrap: wrap;
     margin-bottom: 50px;
 }
+
+
+input[type="text"] {
+    padding: 8px;
+    margin: 10px 0;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type="text"]:focus {
+    outline: none;
+    border-color: #007BFF; 
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); 
+  }
+
+  .containerInput{
+    text-align: center;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+}

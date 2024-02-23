@@ -6,8 +6,8 @@ function Intro({img}){
              
             <div className={style.intro}>
             <div className={style.texto}>
-                        <h1>Encontre novo filmes</h1>
-                        <p>Veja nosso catálogo e descubra histórias incríveis. Explore uma vasta seleção de filmes de diferentes gêneros e épocas. Desde clássicos do cinema até as últimas produções, temos opções para todos os gostos.</p>
+                        <h1>Os melhores jogos</h1>
+                        <p>Confira nossa coleção e mergulhe em narrativas extraordinárias. Navegue por uma ampla variedade de jogos de diversos gêneros e épocas. De títulos clássicos a lançamentos recentes, oferecemos opções para todos os tipos de jogadores.</p>
             </div>
         </div>
         </section>
