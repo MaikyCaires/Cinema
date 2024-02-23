@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Intro from './components/Intro';
 import Container from './components/Container';
 import Card from "./components/Card";
-import { FaStar, FaRegStar } from 'react-icons/fa';
+
 import filmesData from "./srcJSON/filmes.json";
 import Footer from "./components/Footer";
 
@@ -49,7 +49,7 @@ function App() {
       <div id='jogos' className='containerInput'>
         <input
           type="text"
-          placeholder="Pesquisar filmes..."
+          placeholder="Pesquisar jogos..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />

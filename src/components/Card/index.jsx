@@ -6,7 +6,7 @@ function Card({ img, nome, ano, descricao, favorito, onToggleFavorito }) {
   return (
     <div className={style.jogo}>
       <div className={style.catalogo}>
-        <img src={img} alt="jogo" />
+        <img src={img}alt="jogo" />
         <div className={style.texto}>
           <h2>{nome}</h2>
           <p>{ano}</p>
